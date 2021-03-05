@@ -1,0 +1,349 @@
+Population,Site,Institution,Individual.ID,inlet.ML,inlet.AP,midplane.ML,midplane.AP,outlet.ML,outlet.AP,Region,Body.mass
+Ainu,,"Kyoto University, Japan",626,12.35,11.3,9.8,11.7,12.3,11.2,Asia,51.6032466
+Ainu,,"Kyoto University, Japan",630,14.3,11.1,11.5,12.9,12.7,12.55,Asia,61.6234262
+Ainu,,"Kyoto University, Japan",658,12.1,10,9.4,12.3,11,11.9,Asia,52.0271444
+Ainu,,"Tokyo University, Japan",1335,11.9,8.4,8.9,11.9,10.8,11.1,Asia,NA
+Ainu,,"Tokyo University, Japan",1346,12.1,11.5,10.1,12.85,11.6,12.4,Asia,NA
+Ainu,,"Tokyo University, Japan",1349,13.1,11.8,10.2,12.9,11,12.1,Asia,NA
+Ainu,,"Tokyo University, Japan",1354,13.6,11.4,10.3,12.7,11.6,12.1,Asia,NA
+Ainu,,"Tokyo University, Japan",1364,13,11.2,9.8,13.55,11.4,12.75,Asia,NA
+Ainu,,"Tokyo University, Japan",1432,12.15,9.8,10.3,12.75,11.2,12.1,Asia,NA
+Ainu,,"Tokyo University, Japan",1437,13.1,9.6,10,11.1,12.3,10.8,Asia,NA
+Ainu,,"Tokyo University, Japan",1438,11.8,10.75,9.1,12.9,9.2,12.2,Asia,NA
+Ainu,,"Tokyo University, Japan",1452,12.7,12,11.3,13.3,12.2,13,Asia,NA
+Ainu,,"Tokyo University, Japan",1454,12.45,10.7,9.8,12.8,12.3,12.2,Asia,NA
+Alaska,,"American Museum of Natural History, New York, USA",99.1/102,12.4,9.5,9.7,10.7,10.8,9.9,Americas,52.5887581
+Alaska,,"American Museum of Natural History, New York, USA",99.1/168,13.5,11.1,10.4,12.3,13.2,12,Americas,46.67302075
+Alaska,,"American Museum of Natural History, New York, USA",99.1/198,12.9,11,10.7,12.2,12.3,11.7,Americas,52.17777205
+Alaska,,"American Museum of Natural History, New York, USA",99.1/200,13.85,9.7,12.1,13.3,14,12.9,Americas,48.25833619
+Alaska,,"American Museum of Natural History, New York, USA",99.1/257,11.8,9.8,11.5,12.7,12.6,12.7,Americas,53.19637916
+Alaska,,"American Museum of Natural History, New York, USA",99.1/268,12.6,10.5,10.7,10.9,13.1,10.7,Americas,50.66511623
+Alaska,,"American Museum of Natural History, New York, USA",99.1/276,13.5,11.2,11.2,12,14.2,11.2,Americas,54.94655912
+Alaska,,"American Museum of Natural History, New York, USA",99.1/316,11.8,10.3,10.2,12.3,13,11.8,Americas,52.23395086
+Alaska,,"American Museum of Natural History, New York, USA",99.1/334,13.5,11,10.3,12.9,13.2,12.3,Americas,51.66475041
+Alaska,,"American Museum of Natural History, New York, USA",99.1/338,13.8,9.9,10.7,12.8,12.2,12.5,Americas,58.22440657
+Alaska,,"American Museum of Natural History, New York, USA",99.1/359,12.7,9.6,10.4,11.6,13.3,11,Americas,50.06666668
+Alaska,,"American Museum of Natural History, New York, USA",99.1/362,12.8,9.6,9.8,10.9,12,10.2,Americas,47.35056761
+Alaska,,"American Museum of Natural History, New York, USA",99.1/377,14.1,10.6,11.2,11.9,14,11.1,Americas,59.32062622
+Alaska,,"American Museum of Natural History, New York, USA",99.1/412,11.7,10.7,10.5,12.4,12.8,12.3,Americas,55.83223811
+Alaska,,"American Museum of Natural History, New York, USA",99.1/424,13,10.2,9.5,12.6,11.9,11.9,Americas,55.06567458
+Alaska,,"American Museum of Natural History, New York, USA",99.1/459,13.2,11.6,10.3,13.4,12.6,12.4,Americas,54.42219074
+Alaska,,"American Museum of Natural History, New York, USA",99.1/465,13.8,10.8,11.6,13.9,12.9,13.5,Americas,57.40136377
+Alaska,,"American Museum of Natural History, New York, USA",99.1/485,14.1,11.4,11.9,12.2,14.6,11.3,Americas,52.62386703
+Alaska,,"American Museum of Natural History, New York, USA",99.1/500,12.9,8.8,10.7,11.9,12.1,12,Americas,57.37756431
+Alaska,,"American Museum of Natural History, New York, USA",99.1/526,12.9,9.6,10.1,11.4,12.6,10.6,Americas,55.13300683
+Alaska,,"American Museum of Natural History, New York, USA",99.1/99,12.9,10.5,11.1,13.4,13.6,13.1,Americas,44.85834017
+Arikara,Larson site,"University of Tennessee at Knoxville, USA",B113D,13.65,11.6,11.3,13.1,14,12.5,Americas,61.74594477
+Arikara,Larson site,"University of Tennessee at Knoxville, USA",B117,12.4,10.4,10.2,12.6,11.9,11.9,Americas,NA
+Arikara,Larson site,"University of Tennessee at Knoxville, USA",B129B,13.5,11.5,11.1,13.4,13.3,12.8,Americas,57.51081221
+Arikara,Larson site,"University of Tennessee at Knoxville, USA",B132,13.8,10.95,11.1,12,14.2,11.5,Americas,48.68082952
+Arikara,Larson site,"University of Tennessee at Knoxville, USA",B135,12.6,10.3,8.8,10.7,11.1,10.3,Americas,53.77485715
+Arikara,Larson site,"University of Tennessee at Knoxville, USA",B142,13.9,12.1,10.8,13,11.8,12.2,Americas,64.82768006
+Arikara,Larson site,"University of Tennessee at Knoxville, USA",B33A,13.6,10.75,10.1,12.75,11.9,12.3,Americas,59.46082695
+Arikara,Larson site,"University of Tennessee at Knoxville, USA",B33B,13.5,9.5,9.9,13.1,12,12.5,Americas,50.50029607
+Arikara,Larson site,"University of Tennessee at Knoxville, USA",B36,14.2,10,11.1,12.6,12.8,12,Americas,53.66192312
+Arikara,Larson site,"University of Tennessee at Knoxville, USA",B3A,13.15,10.8,9.6,12.3,12.2,11.8,Americas,54.72808184
+Arikara,Larson site,"University of Tennessee at Knoxville, USA",B3C/G,13.1,10.3,11.2,12.7,14.2,12,Americas,55.61948787
+Arikara,Larson site,"University of Tennessee at Knoxville, USA",B4B,13.7,10.6,10.1,12.2,11.6,11.4,Americas,49.24975303
+Arikara,Larson site,"University of Tennessee at Knoxville, USA",B6,13,11.3,9.7,12.4,12.1,11.5,Americas,55.29025661
+Arikara,Larson site,"University of Tennessee at Knoxville, USA",B60B,13.5,10.15,10.6,12.7,13.2,12,Americas,54.84083329
+Arikara,Larson site,"University of Tennessee at Knoxville, USA",B6B,12.6,11.3,10.1,10.9,12.1,10.5,Americas,44.07138985
+Arikara,Larson site,"University of Tennessee at Knoxville, USA",B76B,13.5,10.8,10.9,11.5,12.9,10.9,Americas,56.10508813
+Austria,,"Cleveland Museum of Natural History, Ohio, USA",412,11.3,10.9,9,10.8,11.9,10.2,Europe and North Africa,49.31480877
+Austria,,"Cleveland Museum of Natural History, Ohio, USA",466,13.5,8.8,10.5,11,13.2,10.4,Europe and North Africa,48.54422503
+Austria,,"Naturhistorisches Museum, Wien, Austria",667,13.4,10,10.9,11.5,13.5,10.8,Europe and North Africa,54.15309053
+Austria,,"Cleveland Museum of Natural History, Ohio, USA",681,13.1,10.2,9.1,12.4,10.5,11.8,Europe and North Africa,56.05020315
+Austria,,"Naturhistorisches Museum, Wien, Austria",694,13.9,11.2,10.2,12.6,12.7,12,Europe and North Africa,52.96584619
+Austria,,"Cleveland Museum of Natural History, Ohio, USA",1157,12.5,11.3,10.1,13.5,12.6,12.5,Europe and North Africa,52.56599882
+Austria,,"Cleveland Museum of Natural History, Ohio, USA",1309,12.5,10.25,9.7,12.4,12.5,11.7,Europe and North Africa,43.92610262
+Austria,,"Cleveland Museum of Natural History, Ohio, USA",1755,13.6,10.35,10.2,13.2,12.5,13,Europe and North Africa,60.7275688
+Austria,,"Cleveland Museum of Natural History, Ohio, USA",1771,11.75,11.1,8.8,11.8,11.1,11.2,Europe and North Africa,47.12015457
+Austria,,"Cleveland Museum of Natural History, Ohio, USA",2056,14.4,11.6,11.8,13.1,13.8,11.9,Europe and North Africa,59.20093546
+Austria,,"Naturhistorisches Museum, Wien, Austria",25955,12.1,11.25,10.7,11.8,13.2,11.2,Europe and North Africa,49.8771644
+Austria,,"Naturhistorisches Museum, Wien, Austria",25975,13.7,10.7,11.5,12.6,14.7,12.2,Europe and North Africa,55.12537965
+Austria,,"Naturhistorisches Museum, Wien, Austria",25978,12.4,9,11.3,12.3,13.6,12.8,Europe and North Africa,43.91273869
+Botswana,,"University of Witwatersrand, Johannesburgh, South Africa",931,11.2,10.4,9.4,12.3,11.5,11.65,Subsaharan Africa,44.85106251
+Botswana,,"University of Witwatersrand, Johannesburgh, South Africa",1519,11.6,10.6,10.6,13.4,12.6,12.8,Subsaharan Africa,44.27750744
+Botswana,,"University of Witwatersrand, Johannesburgh, South Africa",2129,12,10.85,8.9,12.6,9.3,12.35,Subsaharan Africa,47.18447007
+Botswana,,"University of Witwatersrand, Johannesburgh, South Africa",2371,11.5,11.1,9.6,12.7,12,11.65,Subsaharan Africa,48.77026215
+Botswana,,"University of Witwatersrand, Johannesburgh, South Africa",2965,11.5,11.8,9.7,12.8,11.1,10.5,Subsaharan Africa,53.51368317
+Botswana,,"University of Witwatersrand, Johannesburgh, South Africa",3095,12.3,10.3,9.4,11.4,11.25,11.2,Subsaharan Africa,44.64390246
+Botswana,,"University of Witwatersrand, Johannesburgh, South Africa",3127,11.5,10.9,9.4,11.1,10.2,10.4,Subsaharan Africa,56.70541421
+Botswana,,"University of Witwatersrand, Johannesburgh, South Africa",3183,11.3,11.3,9.3,12.9,11.1,11.6,Subsaharan Africa,52.98222378
+Botswana,,"University of Witwatersrand, Johannesburgh, South Africa",3188,9.5,10.5,7.5,11.9,10.1,9.9,Subsaharan Africa,44.75078379
+Botswana,,"University of Witwatersrand, Johannesburgh, South Africa",3195,11.9,10.1,9.7,10.9,11,12.2,Subsaharan Africa,47.91406851
+Botswana,,"University of Witwatersrand, Johannesburgh, South Africa",3376,12.4,10.2,11.3,12.2,13,12.4,Subsaharan Africa,53.90917988
+Botswana,,"University of Witwatersrand, Johannesburgh, South Africa",3419,11.75,10.5,9.9,12,10.6,11.2,Subsaharan Africa,40.08741603
+Botswana,,"University of Witwatersrand, Johannesburgh, South Africa",3499,13.8,12.3,10.4,12.75,10.7,11.5,Subsaharan Africa,58.96229731
+Botswana,,"University of Witwatersrand, Johannesburgh, South Africa",3501,11.25,8.7,9.9,9.9,11.5,9.4,Subsaharan Africa,44.33710307
+Botswana,,"University of Witwatersrand, Johannesburgh, South Africa",3524,10.9,10.2,9.9,11.9,10.6,12.8,Subsaharan Africa,42.28485543
+Botswana,,"University of Witwatersrand, Johannesburgh, South Africa",3532,11.7,11.5,9.2,13.4,10.7,11.7,Subsaharan Africa,46.40231251
+Botswana,,"University of Witwatersrand, Johannesburgh, South Africa",3557,11.5,9.6,10,11.7,11.6,11.9,Subsaharan Africa,52.03286798
+Botswana,,"University of Witwatersrand, Johannesburgh, South Africa",3787,12.6,11.5,9.5,12.6,10.4,11.9,Subsaharan Africa,43.38600349
+California,Ala-329,"University of California at Berkeley, USA",5328,14.5,11.25,11.1,12.4,13.9,12,Americas,49.88993432
+California,Cco-138,"University of California at Berkeley, USA",6107,13.4,10,10.2,12,12.5,11.9,Americas,47.93346995
+California,Cco-138,"University of California at Berkeley, USA",6117,13.6,11.1,11.2,12.8,14.1,11.9,Americas,43.64531943
+California,Cco-138,"University of California at Berkeley, USA",6118,13.4,12.25,11,13.2,14.3,13,Americas,42.67957214
+California,Cco-138,"University of California at Berkeley, USA",6259,13.6,10.2,11.1,12.9,12.5,12.5,Americas,47.20276445
+California,Ala-329,"University of California at Berkeley, USA",7072,13.1,10.75,9.7,12.5,11.9,12.2,Americas,46.04818989
+California,Ala-329,"University of California at Berkeley, USA",7077,14.1,11.5,11.7,14.6,14.8,14.1,Americas,49.64565239
+California,Ala-329,"University of California at Berkeley, USA",7101,12.7,10.6,9.9,12.3,12.6,12.2,Americas,40.26543659
+California,Ala-329,"University of California at Berkeley, USA",7102,14.2,10.8,10.2,12.4,13.2,11.95,Americas,43.28638716
+California,Cco-138,"University of California at Berkeley, USA",9729,12.5,10.1,9.8,13.1,12.8,12.6,Americas,48.91755788
+California,Cco-138,"University of California at Berkeley, USA",9959,13.1,10.7,10.9,12.1,14.1,11.9,Americas,45.93737381
+California,Cco-138,"University of California at Berkeley, USA",9960,13.7,11.7,10.6,13.9,12.6,13.4,Americas,54.72086214
+California,Cco-138,"University of California at Berkeley, USA",9963,13.1,9.9,10.8,12,13.6,11.4,Americas,41.29709553
+California,Cco-138,"University of California at Berkeley, USA",10519,14.15,11.4,12.3,13.3,13.2,13.2,Americas,54.43624319
+California,Cco-138,"University of California at Berkeley, USA",10534,14.7,10.8,11.2,13.35,13.7,12.7,Americas,57.63248094
+Egypt,El Gizeh,"Naturhistorisches Museum, Wien, Austria",5302,13,10.25,10.5,12.3,13.5,11.5,Europe and North Africa,51.39404089
+Egypt,El Hesa,"American Museum of Natural History, New York, USA",VL3102,12.8,12.3,10,13.4,12.6,12.4,Europe and North Africa,51.99917091
+Egypt,El Hesa,"American Museum of Natural History, New York, USA",VL3105,12.75,12.1,11,12.4,13.9,12,Europe and North Africa,49.44745443
+Egypt,El Hesa,"American Museum of Natural History, New York, USA",VL3111,12.4,11.3,10.2,12.5,10.2,11.6,Europe and North Africa,47.83929152
+Egypt,El Hesa,"American Museum of Natural History, New York, USA",VL3139,12.7,10,11.9,12,14.6,11.8,Europe and North Africa,32.54989451
+Egypt,El Hesa,"American Museum of Natural History, New York, USA",VL3146,12.2,10.6,10.4,10.9,11.7,10.35,Europe and North Africa,48.30558492
+Egypt,El Hesa,"American Museum of Natural History, New York, USA",VL3167,12.25,10.9,10.2,12.6,10.9,12,Europe and North Africa,35.82977271
+Egypt,El Hesa,"American Museum of Natural History, New York, USA",VL3175,13.4,11.6,10.7,11.4,13.65,11.6,Europe and North Africa,46.77364384
+Egypt,El Hesa,"American Museum of Natural History, New York, USA",VL3178,12.55,9.55,10.1,11.7,12.1,12,Europe and North Africa,44.04287011
+France,,"Musée de l’Homme, Paris, France",35048,12.8,11.7,9.1,14.2,12,13.7,Europe and North Africa,60.1397969
+France,,"Musée de l’Homme, Paris, France",35053,12.2,11.5,10.6,12.7,13,13.2,Europe and North Africa,50.21979408
+France,,"Musée de l’Homme, Paris, France",35054,13.2,10.5,12.5,12.5,14.5,11.8,Europe and North Africa,58.92807516
+France,,"Musée de l’Homme, Paris, France",35055,12.3,9.5,11,12,13.9,11.1,Europe and North Africa,47.67362333
+France,,"Musée de l’Homme, Paris, France",35060,12.4,10.7,9.5,12.5,11.4,12.7,Europe and North Africa,53.38582714
+France,,"Musée de l’Homme, Paris, France",35061,12.45,11,9.4,12.3,12.7,11.4,Europe and North Africa,51.25296769
+France,,"Musée de l’Homme, Paris, France",35063,13.7,10.8,11.3,12.9,12.9,12.2,Europe and North Africa,59.07339817
+France,,"Musée de l’Homme, Paris, France",35065,13,12.3,9.7,13.35,12.1,12.4,Europe and North Africa,55.90031241
+France,,"Musée de l’Homme, Paris, France",35067,13.65,10.3,10.4,13.3,12.6,12.6,Europe and North Africa,50.75192623
+France,,"Musée de l’Homme, Paris, France",35068,13.9,11.6,10,13,11.65,12.8,Europe and North Africa,51.79210493
+France,,"Musée de l’Homme, Paris, France",35070,12.8,11.15,10.6,12.5,12.2,11.85,Europe and North Africa,58.41914173
+France,,"Musée de l’Homme, Paris, France",35071,12.7,11.1,10.4,13.1,12.1,12.5,Europe and North Africa,47.9911917
+France,,"Musée de l’Homme, Paris, France",35075,12,10.5,10.2,11.55,13.2,10.65,Europe and North Africa,52.18725057
+France,,"Musée de l’Homme, Paris, France",35076,12.25,10.4,10.2,12.6,12,11.9,Europe and North Africa,48.64480568
+France,,"Musée de l’Homme, Paris, France",35077,14,8.8,10.1,11.8,12.2,11.5,Europe and North Africa,55.31951214
+Fuegian,,"University of Rome “La Sapienza”, Italy",2,12.3,11,9.5,12.5,11.7,12.1,Americas,42.49601034
+Fuegian,,"University of Rome “La Sapienza”, Italy",3,12.5,10.4,10.2,14.5,11.7,13.8,Americas,47.80474419
+Fuegian,,"University of Rome “La Sapienza”, Italy",4,13,10.2,11.4,14.6,13.1,15,Americas,54.70896767
+Fuegian,,"University of Rome “La Sapienza”, Italy",7,13.2,11.5,10.2,13.9,10.8,13.7,Americas,53.78650535
+Fuegian,,"University of Rome “La Sapienza”, Italy",9,13.3,10.6,10.9,12.1,12.5,11.6,Americas,43.58207997
+Fuegian,,"University of Rome “La Sapienza”, Italy",10,13.4,10.15,10.6,12.7,12.5,12.2,Americas,40.26707398
+Fuegian,,"University of Rome “La Sapienza”, Italy",11,13.9,12.2,11.4,15.1,13.2,14.2,Americas,54.42785361
+Fuegian,,"Museo Nazionale di Antropologia e Etnologia, Firenze, Italy",3119,12.6,10.3,10.85,12.6,13.2,12.2,Americas,44.98912976
+Fuegian,,"Museo Nazionale di Antropologia e Etnologia, Firenze, Italy",3128,13.1,10.5,11.5,13.4,13.8,12.7,Americas,47.89850503
+India,,"San Diego Museum of Man, California, USA",5,11.1,10.9,8.8,12.1,10,11.6,Asia,NA
+India,,"San Diego Museum of Man, California, USA",9,12.45,11,8.9,11.8,11.1,11.2,Asia,NA
+India,,"San Diego Museum of Man, California, USA",12,10.6,10.1,8.25,11.2,10.2,10.8,Asia,NA
+India,,"San Diego Museum of Man, California, USA",14,11.9,11,9.1,11.4,12.5,10.35,Asia,NA
+India,,"San Diego Museum of Man, California, USA",15,12.3,12.4,9.3,13.1,10.9,12.8,Asia,NA
+India,,"San Diego Museum of Man, California, USA",1986/20/4,12,10.15,8.5,11.3,9.5,10.5,Asia,43.1981772
+India,,"San Diego Museum of Man, California, USA",2004/32/55,11.05,10.5,8.5,11.6,11,10.6,Asia,45.14877723
+India,,"San Diego Museum of Man, California, USA",2004/32/60,12.7,9.85,8.8,11.1,11.65,10.7,Asia,50.72245131
+India,,"San Diego Museum of Man, California, USA",2004/32/61,12.05,10.5,9,11.7,10.9,11.2,Asia,47.30613519
+India,,"San Diego Museum of Man, California, USA",2008/5/83,11.6,10.3,8.8,11.1,11.65,10.7,Asia,46.99087122
+India,,"San Diego Museum of Man, California, USA",Lab1,11.5,9.75,8.9,11.2,11.5,10.15,Asia,43.33044579
+Iran,,"University of Pennsylvania at Philadelphia, USA",33-16-112,11.9,10.2,9.9,12.1,11.2,11.4,Asia,55.40160741
+Iran,,"University of Pennsylvania at Philadelphia, USA",33-16-162,14.2,11.5,10.4,13.6,12.4,12.9,Asia,66.62143519
+Iran,,"University of Pennsylvania at Philadelphia, USA",33-16-171,12.9,10.5,9.7,13.7,10.2,13.1,Asia,50.84244995
+Iran,,"University of Pennsylvania at Philadelphia, USA",33-16-178,13.3,10.8,10.8,13.3,13,12.7,Asia,55.74920065
+Iran,,"University of Pennsylvania at Philadelphia, USA",33-16-179,12,9.3,10.2,10.8,13,10.2,Asia,46.68237671
+Iran,,"University of Pennsylvania at Philadelphia, USA",33-23-181,13.3,10,11.2,13.2,13.9,13.2,Asia,56.85682274
+Iran,,"University of Pennsylvania at Philadelphia, USA",63-3-306,13.35,11,11.2,12.5,12.4,11.7,Asia,56.47108329
+Iran,,"University of Pennsylvania at Philadelphia, USA",65-31-768,13,10.3,10.1,12,12.4,11.7,Asia,45.18645572
+Iran,,"University of Pennsylvania at Philadelphia, USA",65-31-774,11.8,9.7,8.6,11.9,9.5,11.2,Asia,43.87413124
+Iran,,"University of Pennsylvania at Philadelphia, USA",65-31-795,12.6,9.2,10.1,11.8,11.2,11.7,Asia,35.78217719
+Iran,,"University of Pennsylvania at Philadelphia, USA",66-23-370,13.2,11,10.6,12.55,12.4,12.1,Asia,52.44192257
+Italy,,"Museo Nazionale di Antropologia e Etnologia, Firenze, Italy",4853,12.2,9.4,10.1,11.8,12.1,11.4,Europe and North Africa,40.96276832
+Italy,,"Museo Nazionale di Antropologia e Etnologia, Firenze, Italy",4868,13.2,12.2,11.4,11.9,14,11.1,Europe and North Africa,51.23488051
+Italy,,"Museo Nazionale di Antropologia e Etnologia, Firenze, Italy",4874,13.3,11.2,9,13.2,11.55,12.5,Europe and North Africa,56.0498439
+Italy,,"Museo Nazionale di Antropologia e Etnologia, Firenze, Italy",4884,13.4,13,10.4,13.7,13.4,13.7,Europe and North Africa,58.31050336
+Italy,,"Museo Nazionale di Antropologia e Etnologia, Firenze, Italy",4887,13.3,12.2,9.8,14.1,10.6,12.9,Europe and North Africa,58.22442763
+Italy,,"Museo Nazionale di Antropologia e Etnologia, Firenze, Italy",4896,14.1,11.8,10.6,11.9,12.3,11,Europe and North Africa,62.55999755
+Japan,,"Kyoto University, Japan",1089,12.1,9.85,8.7,10.5,10.9,9.9,Asia,51.19118347
+Japan,,"Kyoto University, Japan",1443,12.7,11,9.1,11.5,11.65,10.5,Asia,60.76194638
+Japan,,"Kyoto University, Japan",2403,11,11.3,8.4,11.8,10.6,11.15,Asia,49.55162355
+Japan,,"Kyoto University, Japan",2404,12,10.9,9.1,12.95,11.2,12.6,Asia,44.03790914
+Japan,,"Kyoto University, Japan",2405,11.8,11.55,8.5,13.8,10.4,13.2,Asia,52.17527555
+Japan,,"Kyoto University, Japan",2538,12.6,10.5,10.4,12.5,12,12.4,Asia,50.44509847
+Japan,,"Kyoto University, Japan",2548,13,11.7,9.2,13,11.25,11.9,Asia,47.89490674
+Japan,,"Kyoto University, Japan",2600,12.1,10,8.4,11,10.4,10.7,Asia,45.87957314
+Japan,,"Kyoto University, Japan",2677,10.9,8.9,8.85,10.7,11.5,10.3,Asia,49.5105808
+Japan,,"Kyoto University, Japan",2941,12.1,11.4,8.7,13.6,9.7,12.7,Asia,41.76977058
+Japan,,"Kyoto University, Japan",2944,11.9,11.75,8.8,12.5,10.9,11.8,Asia,47.11760281
+Japan,,"Kyoto University, Japan",3000,12.4,10.6,9.5,12.1,12.3,11.55,Asia,58.24634152
+Japan,,"Kyoto University, Japan",3002,11.7,11.1,9.5,11.6,11.2,11.4,Asia,42.41547316
+Japan,,"Musée de l’Homme, Paris, France",10145,11.35,10.4,9.35,12.3,10.4,11.6,Asia,42.48245062
+Japan,,"Musée de l’Homme, Paris, France",10149,12.1,12.5,9.8,12.8,12.3,12.4,Asia,47.17085484
+Japan,,"Musée de l’Homme, Paris, France",10268,11,8.5,8.6,11.3,11.2,10.6,Asia,36.62932435
+Japan,,"Musée de l’Homme, Paris, France",25009,11.4,10.3,10.3,12.4,11.85,12.1,Asia,52.60194273
+Japan,,"Musée de l’Homme, Paris, France",24975-10,11.85,11,8.9,11.9,11.2,11.4,Asia,59.66647151
+Japan,,"Musée de l’Homme, Paris, France",24975-4,11.8,11.1,9.5,12.3,11.2,12.3,Asia,52.93726907
+Japan,,"Musée de l’Homme, Paris, France",24975-8,11.9,10.5,8.8,11.6,9.3,10.7,Asia,47.13593842
+Japan,,"Musée de l’Homme, Paris, France",25012-5,12.4,10.35,10.2,12.1,12.6,11.8,Asia,53.26615585
+Kenya,,"National Museum of Kenya, Nairobi, Kenya",1940,12.1,11.1,8.4,12,10.1,11.5,Subsaharan Africa,48.02169516
+Kenya,,"National Museum of Kenya, Nairobi, Kenya",5478,11.2,10.45,9.1,10.9,11.15,10.4,Subsaharan Africa,46.1653903
+Kenya,,"National Museum of Kenya, Nairobi, Kenya",5517,11.75,10.2,9.2,11.7,11.4,11.2,Subsaharan Africa,50.83075804
+Kenya,,"National Museum of Kenya, Nairobi, Kenya",5521,11.4,10.5,9.6,10.85,11.5,10.4,Subsaharan Africa,50.11937955
+Kenya,,"National Museum of Kenya, Nairobi, Kenya",5888,13.3,10.5,9.75,12.4,10.5,11.5,Subsaharan Africa,45.63035076
+Kenya,,"National Museum of Kenya, Nairobi, Kenya",5900,11.4,9.5,10.25,10.7,12.25,10.3,Subsaharan Africa,45.94460631
+Kenya,,"National Museum of Kenya, Nairobi, Kenya",5910,12,9,9.9,10.9,10.2,10.6,Subsaharan Africa,39.17051026
+Kenya,,"National Museum of Kenya, Nairobi, Kenya",5914,12.5,11.55,9.2,11.3,10.8,11.1,Subsaharan Africa,48.52578376
+Kenya,,"National Museum of Kenya, Nairobi, Kenya",5976,12.4,9.9,9.5,11.4,10.2,11.1,Subsaharan Africa,41.72940573
+Kenya,,"National Museum of Kenya, Nairobi, Kenya",5991,12.4,11.2,8.9,12.6,9.5,11.7,Subsaharan Africa,46.89744518
+Kenya,,"National Museum of Kenya, Nairobi, Kenya",6020,12.5,9.5,9.8,11.9,10.7,11.5,Subsaharan Africa,56.48173518
+Kenya,,"National Museum of Kenya, Nairobi, Kenya",6031,11.1,9,9.2,10.8,9.3,10.6,Subsaharan Africa,36.97327979
+Kenya,,"National Museum of Kenya, Nairobi, Kenya",6036,12.2,11.3,9.4,13.3,11.1,12.9,Subsaharan Africa,46.82461732
+Kenya,,"National Museum of Kenya, Nairobi, Kenya",6057,11.6,11.7,9.6,13.4,11.1,13,Subsaharan Africa,47.22084868
+Kenya,,"National Museum of Kenya, Nairobi, Kenya",6069,11.35,11.6,8.5,12.8,9.7,11.6,Subsaharan Africa,46.40009515
+Kenya,,"National Museum of Kenya, Nairobi, Kenya",6072,11.1,9.35,9.1,11.8,10.8,12.3,Subsaharan Africa,49.60375696
+Kenya,,"National Museum of Kenya, Nairobi, Kenya",6111,11,8.9,9.2,11.8,10.5,11.2,Subsaharan Africa,40.66349184
+Kenya,,"National Museum of Kenya, Nairobi, Kenya",6166,12,11.3,9.5,13.1,10.5,12.1,Subsaharan Africa,50.98136991
+Kenya,,"National Museum of Kenya, Nairobi, Kenya",6176,9.9,10.5,7.3,10.6,8.3,9.9,Subsaharan Africa,54.85661068
+Kenya,,"National Museum of Kenya, Nairobi, Kenya",6179,11.5,9.7,8.3,12.7,9.9,12.8,Subsaharan Africa,49.31939059
+Kenya,,"National Museum of Kenya, Nairobi, Kenya",6215,11.65,10.2,9.4,12.1,10.95,11.3,Subsaharan Africa,38.92313813
+KhoeSan,,"McGregor Museum, Kimberley, South Africa",147,11.25,10.6,10.3,12.3,11.2,11.8,Subsaharan Africa,42.51301634
+KhoeSan,,"McGregor Museum, Kimberley, South Africa",155,11.1,10,9.6,12.8,9.7,12.1,Subsaharan Africa,41.40027496
+KhoeSan,,"McGregor Museum, Kimberley, South Africa",165,9.7,11.2,8.7,12.6,9.6,12.5,Subsaharan Africa,50.39048548
+KhoeSan,,"University of Witwatersrand, Johannesburgh, South Africa",178,11.75,10.1,9.8,12,11.65,11.4,Subsaharan Africa,44.04034116
+KhoeSan,,"McGregor Museum, Kimberley, South Africa",204,11,10.8,9,13.2,9.4,12.7,Subsaharan Africa,42.31797063
+KhoeSan,,"McGregor Museum, Kimberley, South Africa",228,11.5,10.8,9.8,10.6,11.7,10.2,Subsaharan Africa,41.94259679
+KhoeSan,,"McGregor Museum, Kimberley, South Africa",235,10.2,10.3,9.3,12,10.6,11.4,Subsaharan Africa,40.88141739
+KhoeSan,,"McGregor Museum, Kimberley, South Africa",236,11.75,9.8,9.9,12.35,11.5,11.9,Subsaharan Africa,40.92138954
+KhoeSan,,"McGregor Museum, Kimberley, South Africa",250,11.55,10.1,11,11.7,12.1,11.3,Subsaharan Africa,45.32861044
+KhoeSan,,"McGregor Museum, Kimberley, South Africa",281,10.3,11.2,10,13.4,11.5,12.8,Subsaharan Africa,44.70122263
+KhoeSan,,"University of Witwatersrand, Johannesburgh, South Africa",320,11,9.4,10.1,12.6,11.5,12.1,Subsaharan Africa,42.25054029
+KhoeSan,,"Natural History Museum, London, UK",1921-12-17-1,10.65,8.9,9.8,11.3,10.1,11.1,Subsaharan Africa,36.50749157
+Lesotho,,"University of Witwatersrand, Johannesburgh, South Africa",682,12.3,9.25,8.8,12.8,9.5,12.4,Subsaharan Africa,47.40177934
+Lesotho,,"University of Witwatersrand, Johannesburgh, South Africa",822,12,10.8,9.5,12.7,10.6,12.3,Subsaharan Africa,47.6964448
+Lesotho,,"University of Witwatersrand, Johannesburgh, South Africa",828,12.4,11,9.7,11.8,12.2,11.4,Subsaharan Africa,52.44132896
+Lesotho,,"University of Witwatersrand, Johannesburgh, South Africa",831,10.9,11,8.4,13.7,8.9,13.1,Subsaharan Africa,52.15943386
+Lesotho,,"University of Witwatersrand, Johannesburgh, South Africa",866,10.9,11.1,9.65,13.7,11.3,13.3,Subsaharan Africa,56.26283579
+Lesotho,,"University of Witwatersrand, Johannesburgh, South Africa",886,11.4,10.4,9.7,12.4,11.7,11.7,Subsaharan Africa,46.20504936
+Lesotho,,"University of Witwatersrand, Johannesburgh, South Africa",887,12.2,10.8,10.8,11.5,12.4,11.65,Subsaharan Africa,45.00984566
+Lesotho,,"University of Witwatersrand, Johannesburgh, South Africa",892,12.15,11.7,10.9,13.8,12,13.2,Subsaharan Africa,47.0630748
+Lesotho,,"University of Witwatersrand, Johannesburgh, South Africa",903,11,10.5,8.8,12.25,11.2,11.4,Subsaharan Africa,41.68980059
+Lesotho,,"University of Witwatersrand, Johannesburgh, South Africa",953,12.4,11.7,8.9,13.1,11,12.1,Subsaharan Africa,51.83620503
+Lesotho,,"University of Witwatersrand, Johannesburgh, South Africa",983,11,11,9.3,11.9,10.6,11.2,Subsaharan Africa,43.31643454
+Lesotho,,"University of Witwatersrand, Johannesburgh, South Africa",1285,11,9.9,9.4,11.9,11.5,11.3,Subsaharan Africa,48.61206808
+Lesotho,,"University of Witwatersrand, Johannesburgh, South Africa",1297,12,10.6,9.4,11,10.6,11,Subsaharan Africa,56.38390622
+Lesotho,,"University of Witwatersrand, Johannesburgh, South Africa",1344,11.8,11.1,9.5,12.5,10.4,11.9,Subsaharan Africa,44.56042438
+Lesotho,,"University of Witwatersrand, Johannesburgh, South Africa",1389,12.1,11.8,9.8,13.2,11.6,12.7,Subsaharan Africa,48.14996999
+Lesotho,,"University of Witwatersrand, Johannesburgh, South Africa",1416,11.9,10.4,10.7,10.8,11.4,10.5,Subsaharan Africa,47.43598933
+Lesotho,,"University of Witwatersrand, Johannesburgh, South Africa",1536,11.7,10.6,9.3,12.3,11.3,11.9,Subsaharan Africa,43.10887051
+Lesotho,,"University of Witwatersrand, Johannesburgh, South Africa",1668,12.2,10.9,9.3,11.7,10.4,11.2,Subsaharan Africa,51.52621907
+Lesotho,,"University of Witwatersrand, Johannesburgh, South Africa",1692,11.3,8.4,8.4,11.7,10.4,11.35,Subsaharan Africa,38.06773253
+Lesotho,,"University of Witwatersrand, Johannesburgh, South Africa",1891,11.2,11.9,10.1,13.4,12.35,12.9,Subsaharan Africa,49.42681841
+Lesotho,,"University of Witwatersrand, Johannesburgh, South Africa",1895,11.9,10.6,10,12.8,12.2,12,Subsaharan Africa,44.8675313
+Nubia,,"Naturhistorisches Museum, Wien, Austria",C1/35,12.6,11.4,10.5,12.3,12.65,11.4,Europe and North Africa,48.78543457
+Nubia,,"Naturhistorisches Museum, Wien, Austria",C1/38,12,10.6,7.9,12.9,11.3,12.2,Europe and North Africa,50.56312688
+Nubia,,"Naturhistorisches Museum, Wien, Austria",C1/62,11.65,10.5,8.2,11.2,9.8,11.3,Europe and North Africa,48.71600159
+Nubia,,"Naturhistorisches Museum, Wien, Austria",C1/66,12.55,11.8,11,11.95,14.2,11,Europe and North Africa,49.52777777
+Nubia,,"Naturhistorisches Museum, Wien, Austria",C2/110,13.8,10.9,10.8,12.7,13.6,13,Europe and North Africa,61.53689762
+Nubia,,"Naturhistorisches Museum, Wien, Austria",C2/118/2,12.2,10.75,9.8,11.9,13.2,11.2,Europe and North Africa,53.09595034
+Nubia,,"Naturhistorisches Museum, Wien, Austria",C2/125,11.3,11.3,8.2,12.8,10.4,12.3,Europe and North Africa,44.97507784
+Nubia,,"Naturhistorisches Museum, Wien, Austria",C2/25,12.7,11.9,9.8,12.4,12.4,11.4,Europe and North Africa,46.73266318
+Nubia,,"Naturhistorisches Museum, Wien, Austria",C2/49,11.9,10.2,8.4,12.3,10.5,11.6,Europe and North Africa,NA
+Nubia,,"Naturhistorisches Museum, Wien, Austria",C2/61/2,11.6,11.1,9.4,11.9,11.85,11.3,Europe and North Africa,42.04571176
+Nubia,,"Naturhistorisches Museum, Wien, Austria",C2/61/3,12.9,11.4,10.1,12.4,12.4,11.9,Europe and North Africa,51.5720489
+Nubia,,"Naturhistorisches Museum, Wien, Austria",C2/66/2,12.1,10.1,10.7,12,12.7,11.5,Europe and North Africa,42.49570249
+Nubia,,"Naturhistorisches Museum, Wien, Austria",C2/68/1,11.75,10,9.5,11.7,11.9,11.3,Europe and North Africa,43.99251053
+Nubia,,"Naturhistorisches Museum, Wien, Austria",C2/75,12.6,11,10.2,11.3,13.1,11,Europe and North Africa,45.74790988
+Nubia,,"Naturhistorisches Museum, Wien, Austria",c2/88/2,12.4,10.7,9.4,12.15,10.9,11.6,Europe and North Africa,49.86545862
+Nubia,,"Naturhistorisches Museum, Wien, Austria",C2/90/2,12.9,10.8,9.1,11.8,11.8,11.5,Europe and North Africa,44.29981014
+Nubia,,"Naturhistorisches Museum, Wien, Austria",C2/99,13.4,10.3,10.1,12.4,12.4,12.2,Europe and North Africa,55.01134342
+Patagonia,,"Museo Nazionale di Antropologia e Etnologia, Firenze, Italy",3801,12.6,10,9.5,11.7,11.9,10.9,Americas,44.24175941
+Patagonia,,"Museo Nazionale di Antropologia e Etnologia, Firenze, Italy",4458,12.15,11.8,8.6,11.7,11.7,11,Americas,50.09781032
+Patagonia,,"Musée de l’Homme, Paris, France",12262,14.1,11.7,12.2,13.4,14.8,13.1,Americas,58.82085623
+Patagonia,,"Musée de l’Homme, Paris, France",12263,13.55,11.1,10.9,13.1,12.7,12.2,Americas,51.8875125
+Patagonia,,"Musée de l’Homme, Paris, France",12272,14.4,11.9,9.9,13.4,12.9,12.5,Americas,60.41156341
+Patagonia,,"Musée de l’Homme, Paris, France",12275,12.5,10.9,8.7,11.9,11.7,12,Americas,62.22703251
+Patagonia,,"Musée de l’Homme, Paris, France",12280,14,11.9,10.2,13.55,13.7,12.6,Americas,58.09666369
+Peru,Ancon,"Musée de l’Homme, Paris, France",10570,12.8,10.4,10.5,12.9,13.1,12.65,Americas,48.29231495
+Peru,Ancon,"Musée de l’Homme, Paris, France",10572,12.45,11.5,9.1,11.2,11.9,10.8,Americas,44.75039296
+Peru,Ancon,"Musée de l’Homme, Paris, France",10576,12.85,10.7,10.2,12.5,13.3,12.4,Americas,47.59663615
+Peru,Ancon,"Musée de l’Homme, Paris, France",10578,13.3,10.7,10.7,12.2,13.2,11.6,Americas,52.13668266
+Peru,Ancon,"Musée de l’Homme, Paris, France",10579,12.4,10.4,10.2,12.4,12.8,12.1,Americas,46.89651148
+Peru,Ancon,"Musée de l’Homme, Paris, France",10582,12.4,9,9.8,12.2,12.8,11.5,Americas,39.25976394
+Peru,Ancon,"Musée de l’Homme, Paris, France",10586,12.15,10.8,8.9,12,11.9,11.3,Americas,46.35744726
+Peru,Ancon,"Musée de l’Homme, Paris, France",10587,11.7,8.4,9.8,10.9,12.8,11,Americas,44.54275442
+Peru,Ancon,"Musée de l’Homme, Paris, France",18021,13.2,10.6,11.1,11,13.4,10.3,Americas,51.8211293
+Peru,Ancon,"Musée de l’Homme, Paris, France",19849,13.15,9.3,10,11.9,12.4,11.5,Americas,48.61048004
+Peru,Ancon,"Musée de l’Homme, Paris, France",19850,12.25,9.8,9.7,12.9,12.4,13,Americas,46.52849624
+Peru,Ancon,"Musée de l’Homme, Paris, France",19851,12.3,11.2,10.3,12.2,12.4,12,Americas,58.511551
+Peru,Ancon,"Musée de l’Homme, Paris, France",19856,13.1,10.7,9.8,12.6,12,12.1,Americas,45.09889656
+Philippines negritos,,"Musée de l’Homme, Paris, France",8280,11.1,9.8,9,10.8,11.8,10.1,Asia,39.53068731
+Philippines negritos,,"Musée de l’Homme, Paris, France",9758,11.35,10.9,9.35,12.9,11.2,12.7,Asia,37.52093265
+Philippines negritos,,"Musée de l’Homme, Paris, France",9759,12,9.9,9.6,11.3,11.7,11.2,Asia,43.35210158
+Philippines negritos,,"Musée de l’Homme, Paris, France",9764,10.4,9,8.5,11.3,10.6,10.9,Asia,34.44706432
+Philippines negritos,,"Musée de l’Homme, Paris, France",9767,11.7,10.25,8.8,12,10.9,11.5,Asia,43.79520946
+Philippines negritos,,"Musée de l’Homme, Paris, France",9768,11.3,9.2,8.6,11.6,11.3,11.3,Asia,33.89180254
+Philippines negritos,,"Musée de l’Homme, Paris, France",9866,11.7,10.1,8.7,12.7,11,12.2,Asia,44.36202997
+Philippines negritos,,"Musée de l’Homme, Paris, France",9867,10.85,9.4,8.4,11.5,10.6,11,Asia,36.92834445
+Portugal,,"Coimbra University, Portugal",2,14.8,11.3,11.1,11.6,13.2,11.2,Europe and North Africa,60.77724615
+Portugal,,"Coimbra University, Portugal",7,14.3,11.2,11,12.7,13,11.8,Europe and North Africa,45.20568033
+Portugal,,"Coimbra University, Portugal",9,12.2,11.1,9.8,11.6,12.3,11,Europe and North Africa,49.72768511
+Portugal,,"Coimbra University, Portugal",17,13.9,10.2,10.2,10.6,11.9,10,Europe and North Africa,54.3136679
+Portugal,,"Coimbra University, Portugal",30,12.6,12.05,9.1,12.3,11.8,11.5,Europe and North Africa,48.78108899
+Portugal,,"Coimbra University, Portugal",52,14.6,9.9,10.3,12.2,12.1,11.2,Europe and North Africa,46.98377655
+Portugal,,"Coimbra University, Portugal",81,13.4,11,10.5,13.2,11.2,12.7,Europe and North Africa,54.02087851
+Portugal,,"Coimbra University, Portugal",99,11.5,10.8,9.35,11.3,11.5,10.8,Europe and North Africa,46.96589118
+Portugal,,"Coimbra University, Portugal",131,11.5,10,9.4,10.6,11.8,10.5,Europe and North Africa,35.5390853
+Portugal,,"Coimbra University, Portugal",142,13.9,11.9,10.8,13,13.3,12.7,Europe and North Africa,53.36412029
+Portugal,,"Coimbra University, Portugal",144,12.7,11.5,9.7,12.2,11.4,11.2,Europe and North Africa,51.57842269
+Portugal,,"Coimbra University, Portugal",148,13.4,10.9,10.8,13.3,13.3,12.6,Europe and North Africa,50.38407164
+Portugal,,"Coimbra University, Portugal",153,12.2,12,9.1,13.2,11.3,12.5,Europe and North Africa,54.62914583
+Portugal,,"Coimbra University, Portugal",155,13,11.6,9.6,13.5,10.9,12.8,Europe and North Africa,52.86457087
+Portugal,,"Coimbra University, Portugal",172,11.8,11.3,9.7,12.2,12.3,11.2,Europe and North Africa,46.55296054
+Portugal,,"Coimbra University, Portugal",182,13.1,10.3,10.4,11.8,12.5,11.4,Europe and North Africa,53.43309445
+Portugal,,"Coimbra University, Portugal",201,15,12.6,11.5,13,13.8,12.1,Europe and North Africa,53.06354744
+Portugal,,"Coimbra University, Portugal",225,11.2,8.8,9.4,9.8,11,9,Europe and North Africa,38.2892461
+Portugal,,"Coimbra University, Portugal",252,12.3,10.95,10.6,12.8,13.1,12.6,Europe and North Africa,40.23689773
+Portugal,,"Coimbra University, Portugal",254,12.8,10.5,10.4,12.3,12.5,11.7,Europe and North Africa,50.87169424
+Portugal,,"Coimbra University, Portugal",283,12.15,11.5,9.1,13.3,11.9,12.4,Europe and North Africa,54.21686663
+Portugal,,"Coimbra University, Portugal",293,11.9,10.55,10.1,11.95,11.2,11.5,Europe and North Africa,47.16063332
+Portugal,,"Coimbra University, Portugal",300,11.9,10.55,8.4,12,11.7,11.6,Europe and North Africa,47.46022878
+Portugal,,"Coimbra University, Portugal",317,12.5,12.7,9,12.8,10.9,12,Europe and North Africa,52.92419267
+Portugal,,"Coimbra University, Portugal",449,13.4,10.2,9.9,12.1,12.4,11.2,Europe and North Africa,42.51647299
+Sadlermiut,,"Musée Canadien des Civilisations, Gatineau, Canada",NP-138,13.5,9.8,11.2,12.6,13.5,10.95,Americas,58.46195701
+Sadlermiut,,"Musée Canadien des Civilisations, Gatineau, Canada",NP-159,13.5,11.5,11.4,13.8,12.8,12.9,Americas,58.39371583
+Sadlermiut,,"Musée Canadien des Civilisations, Gatineau, Canada",NP-166,13.7,10.9,11.2,13.9,12.8,13.3,Americas,60.52610275
+Sadlermiut,,"Musée Canadien des Civilisations, Gatineau, Canada",NP-B19,13.2,11.3,10.8,12.7,12.15,12.2,Americas,56.40873215
+Sadlermiut,,"Musée Canadien des Civilisations, Gatineau, Canada",NP-B44,13.3,9.9,10.5,12.3,11.6,11.8,Americas,56.79397705
+Sadlermiut,,"Musée Canadien des Civilisations, Gatineau, Canada",NP-B49,11.9,10.2,10.8,13.3,12.5,12.8,Americas,56.42275326
+Sadlermiut,,"Musée Canadien des Civilisations, Gatineau, Canada",NP-B4A,13.6,8.5,11.7,11.7,12.4,10.95,Americas,58.47128204
+Sadlermiut,,"Musée Canadien des Civilisations, Gatineau, Canada",NP-B9B,14.8,10.2,11.3,15.3,14.2,15.4,Americas,55.01465278
+Sadlermiut,,"Musée Canadien des Civilisations, Gatineau, Canada",PP-B3,12.55,10.1,10.8,13.3,12.6,12.9,Americas,55.18071357
+Swaziland,,"University of Witwatersrand, Johannesburgh, South Africa",757,11.4,10.2,10.2,12.1,10.6,11.6,Subsaharan Africa,40.77924284
+Swaziland,,"University of Witwatersrand, Johannesburgh, South Africa",759,12.1,11.65,10.6,12.2,12,11.7,Subsaharan Africa,54.49076
+Swaziland,,"University of Witwatersrand, Johannesburgh, South Africa",891,12.3,11.5,10.4,12.6,12,12,Subsaharan Africa,41.58261944
+Swaziland,,"University of Witwatersrand, Johannesburgh, South Africa",897,11.9,10.1,10.6,13.7,11.7,13.2,Subsaharan Africa,46.00365374
+Swaziland,,"University of Witwatersrand, Johannesburgh, South Africa",900,10.8,10.8,10.1,11.5,11.5,10.7,Subsaharan Africa,45.70682614
+Swaziland,,"University of Witwatersrand, Johannesburgh, South Africa",950,12.1,9.55,10.2,11.3,11.7,10.9,Subsaharan Africa,46.71507134
+Swaziland,,"University of Witwatersrand, Johannesburgh, South Africa",1438,11.8,10.4,10.2,13,11.3,12.1,Subsaharan Africa,47.41429968
+Swaziland,,"University of Witwatersrand, Johannesburgh, South Africa",1534,12,10.8,10,11.4,11.7,10.8,Subsaharan Africa,46.42799432
+Swaziland,,"University of Witwatersrand, Johannesburgh, South Africa",1631,12.7,11.3,10.6,13.5,12,13,Subsaharan Africa,55.87923207
+Swaziland,,"University of Witwatersrand, Johannesburgh, South Africa",2068,12.6,10.6,10.2,12.1,11.2,11.4,Subsaharan Africa,51.35625596
+Swaziland,,"University of Witwatersrand, Johannesburgh, South Africa",2394,12.9,11.2,9.7,14,10.1,13.9,Subsaharan Africa,50.46993469
+Swaziland,,"University of Witwatersrand, Johannesburgh, South Africa",2464,11.1,10,7.3,11.2,9.1,10.2,Subsaharan Africa,41.84042779
+Swaziland,,"University of Witwatersrand, Johannesburgh, South Africa",2741,10.7,10.1,8.3,10.8,10.1,10.3,Subsaharan Africa,51.5984408
+Swaziland,,"University of Witwatersrand, Johannesburgh, South Africa",3291,11,10.5,9.4,11.4,10.6,11.2,Subsaharan Africa,50.26044734
+Swaziland,,"University of Witwatersrand, Johannesburgh, South Africa",3413,11.8,9.1,8.6,11.3,9.9,10.9,Subsaharan Africa,53.46991948
+Swaziland,,"University of Witwatersrand, Johannesburgh, South Africa",3605,11.5,11,9.7,12.2,11.7,11,Subsaharan Africa,41.11764693
+Thailand,,"Musée de l’Homme, Paris, France",20005,12.1,10.8,9,12.1,11.2,11.8,Asia,NA
+Thailand,,"Chiang Mai University, Thailand",114-50,12.9,12.2,10.9,10.6,13,9.7,Asia,51.70588427
+Thailand,,"Chiang Mai University, Thailand",122-51,11.9,11.4,9.5,11.4,10.7,11,Asia,37.88591974
+Thailand,,"Chiang Mai University, Thailand",131-50,12.7,12.2,9.5,10.8,10.3,10.3,Asia,59.83719851
+Thailand,,"Chiang Mai University, Thailand",136-50,13.2,12.2,11.2,12.1,14.1,11.5,Asia,51.7156842
+Thailand,,"Chiang Mai University, Thailand",142-52,11.65,11.55,9.5,11.1,10.2,10.2,Asia,49.7852211
+Thailand,,"Chiang Mai University, Thailand",147-52,12.35,11.1,9.3,11.8,11.5,11.1,Asia,46.44555114
+Thailand,,"Chiang Mai University, Thailand",153-52,13.9,13.4,10.2,12.2,12.2,11.3,Asia,52.09115341
+Thailand,,"Chiang Mai University, Thailand",160-50,11.9,13.3,8.6,13.3,10.6,12.8,Asia,47.18565925
+Thailand,,"Chiang Mai University, Thailand",160-52,13,11,11.1,12.3,12.2,11.4,Asia,49.90766104
+Thailand,,"Chiang Mai University, Thailand",163-52,12.2,10.9,9,12.1,10.7,11.7,Asia,47.3465305
+Thailand,,"Chiang Mai University, Thailand",184-52,12.8,12.3,10,12.4,10.7,11.7,Asia,59.97855951
+Thailand,,"Chiang Mai University, Thailand",188-51,12.6,11.9,11.1,12.2,12.25,11.7,Asia,44.01435787
+Thailand,,"Chiang Mai University, Thailand",22-52,13,11.6,10,12.6,11.6,12.1,Asia,45.72751559
+Thailand,,"Chiang Mai University, Thailand",23-50,12.7,13.1,9.2,11.65,11.3,10.6,Asia,57.04192364
+Thailand,,"Chiang Mai University, Thailand",25-52,12,11.8,9,11.6,11.9,11,Asia,43.35543077
+Thailand,,"Chiang Mai University, Thailand",28-51,11.5,13.4,9.6,11.2,13.3,10.4,Asia,45.04569804
+Thailand,,"Chiang Mai University, Thailand",35-53,12.75,10.8,10.7,11.6,12.75,11.1,Asia,43.43278673
+Thailand,,"Chiang Mai University, Thailand",38-52,11.2,10.9,9.5,11.2,10.9,10.6,Asia,45.99057195
+Thailand,,"Chiang Mai University, Thailand",40-51,13.4,10.7,9.7,12.2,10.9,11.5,Asia,53.66120152
+Thailand,,"Chiang Mai University, Thailand",53-52,12.6,10.4,10.1,12.4,11,12,Asia,46.16691358
