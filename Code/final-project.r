@@ -33,6 +33,8 @@ eData <- getEventData(tree, "mar31_event_data.txt", burnin=0.5)
 trait <- data[eData$tip.label, "brain.body.ratio"]
 names(trait) <- eData$tip.label
 plot(eData, spex="s") # set spex to e for extinction, netdiv for net diversification
+plot(eData, spex="e")
+plot(eData, spex="netdiv")
 
 meanSpeciation <- eData$meanTipLambda
 names(meanSpeciation) <- tree$tip.label
@@ -40,10 +42,23 @@ names(meanSpeciation) <- tree$tip.label
 meanExtinction <- eData$meanTipMu
 names(meanExtinction) <- tree$tip.label
 
-plot(meanSpeciation, trait)
+meanDiversification<- meanSpeciation-meanExtinction
+names(meanDiversification) <- tree$tip.label
 
+meanSpeciation
+
+plot(meanSpeciation, trait, xlab = "Mean Speciation", ylab = "Brain/Body Mass Ratio", col="orange",pch=1)
+plot(meanExtinction, trait, xlab = "Mean Extinction", ylab = "Brain/Body Mass Ratio", col="pink",pch=1)
+plot(meanDiversification, trait, xlab = "Mean Diversification", ylab = "Brain/Body Mass Ratio", main= "Mean diversification vs Trait with BAMM", col="brown",pch=1)
+abline(lm(meanDiversification ~ trait))
 ## Maybe look into STRAPP
 strappBBR <- traitDependentBAMM(eData, trait, reps=100)
+strappBBR1<- traitDependentBAMM(eData, trait, reps=100,rate="net diversification")
+strappBBR2<- traitDependentBAMM(eData, trait, reps=100,rate="extinction")
+strappBBR
+strappBBR1
+strappBBR2
+
 
 
 ### DR Statistic
@@ -74,8 +89,8 @@ DRstat <- function(tree) {
 }
 
 DRrates <- DRstat(tree)
-plot(DRrates, trait)
-
+plot(DRrates, trait,xlab = "DR rates", ylab = "Brain/Body Mass Ratio", main= "DR rates vs Trait with DR", col="10",pch=1)
+abline(lm(DRrates ~ trait))
 # this does NOT account for autoregression! (don't trust)
 cor.test(DRrates, trait, method="spear")
 
