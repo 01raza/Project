@@ -26,7 +26,7 @@ phenogram(Phy, x, fsize=0.01)
 
 ### Analyze BAMM results
 library(BAMMtools)
-setwd('C:\\Users\\Raza\\Desktop\\bamm-2.5.0-Windows') 
+setwd('C:\\Users\\Raza\\Desktop\\Evolution\\Data\\bamm-2.5.0-Windows') 
 Tree <- read.tree("phy.tre")
 tree <- Tree[[1]]
 eData <- getEventData(tree, "mar31_event_data.txt", burnin=0.5)
